@@ -1,0 +1,24 @@
+{
+  "geode": "v6.0.0-beta.2",
+  "gd": {
+    "android": "2.2091"
+  },
+  "id": "poco.custom-clicks",
+  "name": "POCO Click Sounds",
+  "version": "v0.1.0",
+  "developer": "Community Project",
+  "description": "Experimental Android click/release audio for Geometry Dash 2.2091.",
+  "resources": {
+    "files": [
+      "resources/press.wav",
+      "resources/release.wav"
+    ]
+  },
+  "settings": {
+    "enable-release": {
+      "type": "bool",
+      "name": "Release sounds",
+      "default": true
+    }
+  }
+}
